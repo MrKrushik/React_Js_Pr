@@ -1,0 +1,120 @@
+/* BODY */
+
+body{
+margin:0;
+font-family:Poppins, Arial;
+background:linear-gradient(135deg,#020617,#0f172a);
+color:white;
+}
+
+/* TITLE */
+
+.title{
+text-align:center;
+font-size:40px;
+margin:20px 0;
+font-weight:600;
+letter-spacing:2px;
+color:#38bdf8;
+}
+
+/* MAIN LAYOUT */
+
+.layout{
+display:grid;
+grid-template-columns:180px 520px 180px;
+gap:20px;
+width:90%;
+margin:auto;
+justify-content:center;
+align-items:start;
+}
+
+/* LEFT AND RIGHT LIST */
+
+.left,
+.right{
+display:flex;
+flex-direction:column;
+gap:15px;
+}
+
+/* CENTER VIEW */
+
+.center{
+display:flex;
+justify-content:center;
+}
+
+/* VIEW CARD */
+
+.view{
+width:520px;
+background:#1e293b;
+border-radius:18px;
+overflow:hidden;
+box-shadow:0 15px 40px rgba(0,0,0,.6);
+transition:.3s;
+}
+
+/* IMAGE */
+
+.view img{
+width:100%;
+height:260px;
+object-fit:cover;
+}
+
+/* DETAILS */
+
+.details{
+padding:20px;
+}
+
+.details h2{
+margin:0 0 10px;
+color:#38bdf8;
+}
+
+.details p{
+margin:5px 0;
+color:#cbd5e1;
+}
+
+/* CITY BUTTON */
+
+.city-btn{
+padding:14px;
+text-align:center;
+border-radius:10px;
+background:#1e293b;
+cursor:pointer;
+border:2px solid #22c55e;
+font-weight:500;
+transition:0.25s;
+}
+
+/* HOVER EFFECT */
+
+.city-btn:hover{
+background:#22c55e;
+color:#020617;
+transform:translateY(-3px);
+}
+
+/* BOTTOM BUTTONS */
+
+.bottom{
+display:flex;
+justify-content:center;
+gap:25px;
+margin:35px 0;
+}
+
+/* SELECT TEXT */
+
+.select{
+color:#94a3b8;
+font-size:22px;
+text-align:center;
+}
