@@ -1,0 +1,98 @@
+   form add data
+
+{
+  "product": [
+    {
+      "id": "M101",
+      "p_name": "Paracetamol 500mg",
+      "p_price": 25,
+      "p_stock": 150,
+      "p_image": "https://images.pexels.com/photos/5910953/pexels-photo-5910953.jpeg",
+      "p_category": "Pain Relief",
+      "p_description": "Effective pain and fever relief medication for adults and children."
+    },
+    {
+      "id": "M102",
+      "p_name": "Ibuprofen 400mg",
+      "p_price": 45,
+      "p_stock": 120,
+      "p_image": "https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg",
+      "p_category": "Pain Relief",
+      "p_description": "Anti-inflammatory medication for pain, swelling, and fever reduction."
+    },
+    {
+      "id": "M103",
+      "p_name": "Aspirin 75mg",
+      "p_price": 55,
+      "p_stock": 200,
+      "p_image": "https://images.pexels.com/photos/3652103/pexels-photo-3652103.jpeg",
+      "p_category": "Cardiovascular",
+      "p_description": "Low-dose aspirin for blood thinning and heart health maintenance."
+    },
+    {
+      "id": "M104",
+      "p_name": "Amoxicillin 500mg",
+      "p_price": 120,
+      "p_stock": 80,
+      "p_image": "https://images.pexels.com/photos/4047070/pexels-photo-4047070.jpeg",
+      "p_category": "Antibiotics",
+      "p_description": "Broad-spectrum antibiotic for bacterial infections treatment."
+    },
+    {
+      "id": "M105",
+      "p_name": "Azithromycin 250mg",
+      "p_price": 180,
+      "p_stock": 60,
+      "p_image": "https://images.pexels.com/photos/4149033/pexels-photo-4149033.jpeg",
+      "p_category": "Antibiotics",
+      "p_description": "Macrolide antibiotic for respiratory and soft tissue infections."
+    },
+    {
+      "id": "M106",
+      "p_name": "Omeprazole 20mg",
+      "p_price": 85,
+      "p_stock": 95,
+      "p_image": "https://images.pexels.com/photos/3951458/pexels-photo-3951458.jpeg",
+      "p_category": "Gastrointestinal",
+      "p_description": "Proton pump inhibitor for acid reflux and ulcer treatment."
+    },
+    {
+      "id": "M107",
+      "p_name": "Vitamin D3 1000IU",
+      "p_price": 220,
+      "p_stock": 180,
+      "p_image": "https://images.pexels.com/photos/4047072/pexels-photo-4047072.jpeg",
+      "p_category": "Vitamins",
+      "p_description": "Essential vitamin supplement for bone health and immune support."
+    },
+    {
+      "id": "M108",
+      "p_name": "Cetirizine 10mg",
+      "p_price": 45,
+      "p_stock": 145,
+      "p_image": "https://images.pexels.com/photos/5910965/pexels-photo-5910965.jpeg",
+      "p_category": "Allergy",
+      "p_description": "Antihistamine for allergy symptom relief and hay fever treatment."
+    },
+    {
+      "id": "M109",
+      "p_name": "Omega-3 Fish Oil",
+      "p_price": 350,
+      "p_stock": 100,
+      "p_image": "https://images.pexels.com/photos/3683102/pexels-photo-3683102.jpeg",
+      "p_category": "Supplements",
+      "p_description": "Essential fatty acids for heart, brain, and joint health support."
+    },
+    {
+      "id": "M110",
+      "p_name": "Metformin 500mg",
+      "p_price": 65,
+      "p_stock": 140,
+      "p_image": "https://images.pexels.com/photos/4047102/pexels-photo-4047102.jpeg",
+      "p_category": "Diabetes",
+      "p_description": "First-line medication for type 2 diabetes management."
+    }
+  ],
+  "cart": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}

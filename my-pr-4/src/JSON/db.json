@@ -1,0 +1,195 @@
+{
+  "product": [
+    {
+      "id": "M101",
+      "p_name": "Paracetamol 500mg",
+      "p_price": 25,
+      "p_stock": 150,
+      "p_image": "https://images.pexels.com/photos/3683098/pexels-photo-3683098.jpeg",
+      "p_category": "Pain Relief",
+      "p_description": "Paracetamol is widely used to reduce fever and relieve mild to moderate pain such as headache, toothache, and body aches. Suitable for adults and children when used as directed."
+    },
+    {
+      "id": "M102",
+      "p_name": "Ibuprofen 400mg",
+      "p_price": 45,
+      "p_stock": 120,
+      "p_image": "https://images.pexels.com/photos/593451/pexels-photo-593451.jpeg",
+      "p_category": "Pain Relief",
+      "p_description": "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) used to reduce inflammation, pain, and fever. Commonly used for muscle pain, arthritis, and menstrual cramps."
+    },
+    {
+      "id": "M103",
+      "p_name": "Aspirin 75mg",
+      "p_price": 55,
+      "p_stock": 100,
+      "p_image": "https://images.pexels.com/photos/208512/pexels-photo-208512.jpeg",
+      "p_category": "Cardiovascular",
+      "p_description": "Low-dose Aspirin is used as a blood thinner to prevent heart attacks and strokes by reducing blood clot formation."
+    },
+    {
+      "id": "M104",
+      "p_name": "Amoxicillin 500mg",
+      "p_price": 120,
+      "p_stock": 80,
+      "p_image": "https://images.pexels.com/photos/3683107/pexels-photo-3683107.jpeg",
+      "p_category": "Antibiotics",
+      "p_description": "Amoxicillin is a penicillin-type antibiotic used to treat bacterial infections such as respiratory tract infections, urinary tract infections, and skin infections."
+    },
+    {
+      "id": "M105",
+      "p_name": "Azithromycin 250mg",
+      "p_price": 180,
+      "p_stock": 60,
+      "p_image": "https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg",
+      "p_category": "Antibiotics",
+      "p_description": "Azithromycin is a macrolide antibiotic used to treat infections including bronchitis, pneumonia, and sexually transmitted diseases."
+    },
+    {
+      "id": "M106",
+      "p_name": "Omeprazole 20mg",
+      "p_price": 85,
+      "p_stock": 95,
+      "p_image": "https://images.pexels.com/photos/3683074/pexels-photo-3683074.jpeg",
+      "p_category": "Gastrointestinal",
+      "p_description": "Omeprazole reduces stomach acid production and is used to treat acid reflux, GERD, and stomach ulcers."
+    },
+    {
+      "id": "M107",
+      "p_name": "Metformin 500mg",
+      "p_price": 65,
+      "p_stock": 140,
+      "p_image": "https://images.pexels.com/photos/3683102/pexels-photo-3683102.jpeg",
+      "p_category": "Diabetes",
+      "p_description": "Metformin helps control blood sugar levels in patients with type 2 diabetes by improving insulin sensitivity."
+    },
+    {
+      "id": "M108",
+      "p_name": "Amlodipine 5mg",
+      "p_price": 95,
+      "p_stock": 110,
+      "p_image": "https://images.pexels.com/photos/593451/pexels-photo-593451.jpeg",
+      "p_category": "Cardiovascular",
+      "p_description": "Amlodipine is used to treat high blood pressure and chest pain (angina) by relaxing blood vessels and improving blood flow."
+    },
+    {
+      "id": "M109",
+      "p_name": "Lisinopril 10mg",
+      "p_price": 75,
+      "p_stock": 125,
+      "p_image": "https://images.pexels.com/photos/3683106/pexels-photo-3683106.jpeg",
+      "p_category": "Cardiovascular",
+      "p_description": "Lisinopril is an ACE inhibitor used to manage hypertension and heart failure by relaxing blood vessels."
+    },
+    {
+      "id": "M110",
+      "p_name": "Atorvastatin 20mg",
+      "p_price": 150,
+      "p_stock": 90,
+      "p_image": "https://images.pexels.com/photos/3683081/pexels-photo-3683081.jpeg",
+      "p_category": "Cholesterol",
+      "p_description": "Atorvastatin helps lower cholesterol and triglyceride levels, reducing the risk of heart disease and stroke."
+    },
+    {
+      "id": "M111",
+      "p_name": "Vitamin D3 1000IU",
+      "p_price": 120,
+      "p_stock": 180,
+      "p_image": "https://images.pexels.com/photos/4047187/pexels-photo-4047187.jpeg",
+      "p_category": "Vitamins",
+      "p_description": "Vitamin D3 supports calcium absorption, bone strength, and immune system health. Commonly used to prevent or treat Vitamin D deficiency."
+    },
+    {
+      "id": "M112",
+      "p_name": "Vitamin B Complex",
+      "p_price": 95,
+      "p_stock": 160,
+      "p_image": "https://images.pexels.com/photos/3683100/pexels-photo-3683100.jpeg",
+      "p_category": "Vitamins",
+      "p_description": "Vitamin B Complex contains essential B vitamins that help boost energy levels, improve metabolism, and support brain and nerve function."
+    },
+    {
+      "id": "M113",
+      "p_name": "Vitamin C 500mg",
+      "p_price": 55,
+      "p_stock": 200,
+      "p_image": "https://images.pexels.com/photos/593451/pexels-photo-593451.jpeg",
+      "p_category": "Vitamins",
+      "p_description": "Vitamin C is a powerful antioxidant that helps strengthen immunity, improve skin health, and protect against infections."
+    },
+    {
+      "id": "M114",
+      "p_name": "Calcium Carbonate 600mg",
+      "p_price": 65,
+      "p_stock": 170,
+      "p_image": "https://images.pexels.com/photos/3683077/pexels-photo-3683077.jpeg",
+      "p_category": "Minerals",
+      "p_description": "Calcium Carbonate is used to prevent and treat calcium deficiency, supporting strong bones and teeth."
+    },
+    {
+      "id": "M115",
+      "p_name": "Iron Ferrous Sulfate 325mg",
+      "p_price": 45,
+      "p_stock": 130,
+      "p_image": "https://images.pexels.com/photos/3683105/pexels-photo-3683105.jpeg",
+      "p_category": "Minerals",
+      "p_description": "Iron supplement used to treat or prevent iron deficiency anemia by improving red blood cell production."
+    },
+    {
+      "id": "M116",
+      "p_name": "Zinc Gluconate 50mg",
+      "p_price": 75,
+      "p_stock": 140,
+      "p_image": "https://images.pexels.com/photos/3683104/pexels-photo-3683104.jpeg",
+      "p_category": "Minerals",
+      "p_description": "Zinc helps boost immunity, supports wound healing, and plays a vital role in cell growth and metabolism."
+    },
+    {
+      "id": "M117",
+      "p_name": "Probiotics 10 Billion CFU",
+      "p_price": 180,
+      "p_stock": 85,
+      "p_image": "https://images.pexels.com/photos/593451/pexels-photo-593451.jpeg",
+      "p_category": "Supplements",
+      "p_description": "Probiotics support digestive health by maintaining a healthy balance of gut bacteria and improving immunity."
+    },
+    {
+      "id": "M118",
+      "p_name": "Omega-3 Fish Oil 1000mg",
+      "p_price": 145,
+      "p_stock": 100,
+      "p_image": "https://images.pexels.com/photos/4047149/pexels-photo-4047149.jpeg",
+      "p_category": "Supplements",
+      "p_description": "Omega-3 fatty acids support heart health, brain function, and reduce inflammation in the body."
+    },
+    {
+      "id": "M119",
+      "p_name": "Magnesium Glycinate 400mg",
+      "p_price": 95,
+      "p_stock": 115,
+      "p_image": "https://images.pexels.com/photos/3683096/pexels-photo-3683096.jpeg",
+      "p_category": "Minerals",
+      "p_description": "Magnesium Glycinate helps with muscle relaxation, stress reduction, and better sleep quality."
+    },
+    {
+      "p_name": "CoQ10 100mg",
+      "p_price": 220,
+      "p_stock": 70,
+      "p_image": "https://images.pexels.com/photos/3683083/pexels-photo-3683083.jpeg",
+      "p_category": "Supplements",
+      "p_description": "Coenzyme Q10 supports energy production in cells and promotes heart health with antioxidant benefits.",
+      "id": "VJAvO4VCl7c"
+    },
+    {
+      "p_name": "nice 100mg",
+      "p_price": 20,
+      "p_stock": 50,
+      "p_image": "https://images.pexels.com/photos/159211/headache-pain-pills-medication-159211.jpeg",
+      "p_category": "Allergy",
+      "p_description": "Nise Tablet is a pain-relieving medicine. It is taken to treat inflammatory conditions, including joint disorders such as rheumatoid arthritis,",
+      "id": "x7NHdVIV3ME"
+    }
+  ],
+  "cart": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
